@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T10:05:47.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="R0q9JkK57noePzy4e0JW" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T10:11:48.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="BalJDoLjrOaXAM1XYXJq" version="21.3.7" type="github">
   <diagram name="Page-1" id="OByR6--c_KJKLzTTlBDF">
     <mxGraphModel dx="1379" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="82vSFKg-HAJ_n_3Zw1BQ-17" value="UI" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="560" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="82vSFKg-HAJ_n_3Zw1BQ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.033;entryY=1.367;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="82vSFKg-HAJ_n_3Zw1BQ-20" target="82vSFKg-HAJ_n_3Zw1BQ-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="82vSFKg-HAJ_n_3Zw1BQ-20" value="Pi" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="220" width="40" height="20" as="geometry" />
@@ -143,7 +146,10 @@
           <mxGeometry x="410" y="140" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="82vSFKg-HAJ_n_3Zw1BQ-58" value="Power Block&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="40" height="40" as="geometry" />
+          <mxGeometry x="240" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82vSFKg-HAJ_n_3Zw1BQ-60" value="All Porters will be equipped with sensors&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="145" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
