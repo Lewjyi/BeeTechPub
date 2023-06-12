@@ -2,8 +2,13 @@
 
 **Welocme to BeeTech**
 
-BeeTech is a charitable project from IJYI Software and Data engineering. 
+Things for BeeTechPub to Record 
 
-The aim of the project is to have live data recorded from beehives, manipulated and then pumped to a live UI 
+Live video feed
 
-TBC
+Humidity & temp 
+
+Count 
+
+noise - sound and decibels 
+
